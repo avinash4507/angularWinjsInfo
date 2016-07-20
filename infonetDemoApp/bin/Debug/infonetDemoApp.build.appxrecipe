@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OPTIMUS-LAP-17</Machine>
+    <WindowsUser>avinash1.singh</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ebfea234-e42b-418c-bac6-72302c297bd0</PackageIdentityName>
+    <PackageIdentityPublisher>CN=avinash1.singh</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\css\mscom-grid.css">
+      <PackagePath>css\mscom-grid.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\css\ui-dark.css">
+      <PackagePath>css\ui-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\css\ui-light.css">
+      <PackagePath>css\ui-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\Angular\angular-csp.css">
+      <PackagePath>js\lib\Angular\angular-csp.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\directives\colorbar.template.html">
+      <PackagePath>js\directives\colorbar.template.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\views\colorDetails.html">
+      <PackagePath>views\colorDetails.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\views\main.html">
+      <PackagePath>views\main.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\fontawesome-webfont.eot">
+      <PackagePath>fonts\fontawesome-webfont.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\glyphicons-halflings-regular.eot">
+      <PackagePath>fonts\glyphicons-halflings-regular.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\fontawesome-webfont.svg">
+      <PackagePath>fonts\fontawesome-webfont.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\glyphicons-halflings-regular.svg">
+      <PackagePath>fonts\glyphicons-halflings-regular.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\fontawesome-webfont.ttf">
+      <PackagePath>fonts\fontawesome-webfont.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\glyphicons-halflings-regular.ttf">
+      <PackagePath>fonts\glyphicons-halflings-regular.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\Symbols.ttf">
+      <PackagePath>fonts\Symbols.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\fontawesome-webfont.woff">
+      <PackagePath>fonts\fontawesome-webfont.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\glyphicons-halflings-regular.woff">
+      <PackagePath>fonts\glyphicons-halflings-regular.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\fontawesome-webfont.woff2">
+      <PackagePath>fonts\fontawesome-webfont.woff2</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\glyphicons-halflings-regular.woff2">
+      <PackagePath>fonts\glyphicons-halflings-regular.woff2</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\FontAwesome.otf">
+      <PackagePath>fonts\FontAwesome.otf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\Colorpicker.png">
+      <PackagePath>images\Colorpicker.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\Colourlovers.png">
+      <PackagePath>images\Colourlovers.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\nuclear.png">
+      <PackagePath>images\nuclear.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\palette.png">
+      <PackagePath>images\palette.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\config.js">
+      <PackagePath>js\config.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\controllers\colorDetailsController.js">
+      <PackagePath>js\controllers\colorDetailsController.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\controllers\colorsMainController.js">
+      <PackagePath>js\controllers\colorsMainController.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\controllers\palettesMainController.js">
+      <PackagePath>js\controllers\palettesMainController.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\controllers\patternsMainController.js">
+      <PackagePath>js\controllers\patternsMainController.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\controllers\shellController.js">
+      <PackagePath>js\controllers\shellController.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\default.alternative.js">
+      <PackagePath>js\default.alternative.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\directives\backButton.directive.js">
+      <PackagePath>js\directives\backButton.directive.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\directives\colorbar.directive.js">
+      <PackagePath>js\directives\colorbar.directive.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\en-US\ui.strings.js">
+      <PackagePath>js\en-US\ui.strings.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\filters\fixcolor.filter.js">
+      <PackagePath>js\filters\fixcolor.filter.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\filters\ttDate.filter.js">
+      <PackagePath>js\filters\ttDate.filter.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\filters\ttFromNow.filter.js">
+      <PackagePath>js\filters\ttFromNow.filter.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\angular-winjs.js">
+      <PackagePath>js\lib\angular-winjs.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\Angular\angular-resource.js">
+      <PackagePath>js\lib\Angular\angular-resource.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\Angular\angular-route.js">
+      <PackagePath>js\lib\Angular\angular-route.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\Angular\angular.js">
+      <PackagePath>js\lib\Angular\angular.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\moment.js">
+      <PackagePath>js\lib\moment.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\winjs\WinJS.intellisense-setup.js">
+      <PackagePath>js\lib\winjs\WinJS.intellisense-setup.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\winjs\WinJS.intellisense.js">
+      <PackagePath>js\lib\winjs\WinJS.intellisense.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\winjs\WinJS.js">
+      <PackagePath>js\lib\winjs\WinJS.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\winjs\WinJS.min.js">
+      <PackagePath>js\lib\winjs\WinJS.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\routeConfig.js">
+      <PackagePath>js\routeConfig.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\services\AdapterService.js">
+      <PackagePath>js\services\AdapterService.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\services\angular.winjs.lifecycle.js">
+      <PackagePath>js\services\angular.winjs.lifecycle.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\services\colourLoversAPI.service.js">
+      <PackagePath>js\services\colourLoversAPI.service.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\services\NavigationService.js">
+      <PackagePath>js\services\NavigationService.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\winjs\WinJS.min.js.map">
+      <PackagePath>js\lib\winjs\WinJS.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,49 @@
+﻿<div class="fragment">
+    222222
+    <header aria-label="Header content" role="banner">
+        <tt-back-button></tt-back-button>
+        <h1 class="titlearea win-type-ellipsis">
+            <span class="pagetitle"><strong>COLOUR</strong>lovers</span>
+        </h1>
+    </header>
+
+    <section role="main" class="ms-grid">
+        <div class="ms-row">
+            <h1 class="col-1-1 win-type-xxx-large win-type-heavy">{{color.data.title}}</h1>
+            <h3 class="col-1-1 win-type-large win-type-light">by <em>{{color.data.userName}}</em></h3>
+            <p class="col-1-1">{{color.data.dateCreated | ttDate:'MMMM do YYYY'}}</p>
+            <p class="col-1-1">{{color.data.dateCreated | ttFromNow}}</p>
+        </div>
+        <div class="ms-row">
+            <span class="col-1-8 preceding-col-1-8 nb label">&nbsp;</span>
+            <div class="col-6-8">
+                <img ng-src="{{color.data.imageUrl}}" width="160" />
+            </div>
+        </div>
+        <div class="ms-row">
+            <span class="col-1-8 preceding-col-1-8 nb label">&nbsp;</span>
+            <div class="col-6-8">
+                <win-rating disabled="true" average-rating="color.data.numHearts"></win-rating>
+            </div>
+        </div>
+        <div class="ms-row">
+            <span class="col-1-8 preceding-col-1-8 nb label">Description:</span>
+            <span class="col-6-8">{{color.data.description}}</span>
+        </div>
+        <div class="ms-row">
+            <span class="col-1-8 preceding-col-1-8 nb label">Hex:</span>
+            <h3 class="col-6-8">{{color.data.hex | ttFixColor}}</h3>
+        </div>
+        <!--<span>{{color.data.numViews}}</span>
+        <span>{{color.data.numVotes}}</span>
+        <span>{{color.data.numComments}}</span>
+        <span>{{color.data.rank}}</span>-->
+        <!--<span>{{color.data.rgb.red}}</span>
+        <span>{{color.data.rgb.green}}</span>
+        <span>{{color.data.rgb.blue}}</span>
+        <span>{{color.data.hsv.h}}</span>
+        <span>{{color.data.imageUrl}}</span>
+        <span>{{color.data.badgeUrl}}</span>
+        <span>{{color.data.apiUrl}}</span>-->
+    </section>
+</div>

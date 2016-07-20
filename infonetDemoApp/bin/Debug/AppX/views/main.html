@@ -1,0 +1,38 @@
+﻿<div class="fragment">
+    <header aria-label="Header content" role="banner">
+        <h1>
+            Reports
+        </h1>       
+    </header>
+    
+    <section role="main">
+        <win-pivot>
+            <win-pivot-left-header>Custom Left Header</win-pivot-left-header>
+            <button><win-pivot-item header="'First'">
+                Pivots are useful for varied content
+            </win-pivot-item></button>
+            <win-pivot-item header="'Second'">
+                This Pivot  is boring however, it just has things like data bindings
+            </win-pivot-item>
+            <win-pivot-item header="'Tail...'">
+                Because it's only purpose is to show how to create a Pivot
+            </win-pivot-item>
+            <win-pivot-right-header>Custom Right Header</win-pivot-right-header>
+        </win-pivot>
+
+        <button id="menuAnchor">Show a menu!</button>
+        <win-menu anchor="'#menuAnchor'">
+            <win-menu-command label="'command the first'"></win-menu-command>
+            <win-menu-command label="'command the second'"></win-menu-command>
+            <win-menu-command label="'this would be a great place for ng-repeater...'"></win-menu-command>
+        </win-menu>
+        <!--<win-list-view item-data-source="main.data">
+            <win-item-template>
+                <div style="margin:25px" ng-click="main.click(item.data)">
+                    <img ng-src="{{item.data.imageUrl}}" width="160" />
+                    <div>{{item.data.title}}</div>
+                </div>
+            </win-item-template>
+        </win-list-view>-->
+        </section>
+</div>

@@ -1,0 +1,16 @@
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bin\Debug\ReverseMap\resources.pri
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bin\Debug\AppxManifest.xml
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bin\Debug\infonetDemoApp.build.appxrecipe
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bld\Debug\ResourceHandlingTask.state
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bld\Debug\priconfig.xml
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bld\Debug\priconfig.xml.intermediate
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bld\Debug\layout.resfiles
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bld\Debug\layout.resfiles.intermediate
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bld\Debug\resources.resfiles
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bld\Debug\resources.resfiles.intermediate
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bld\Debug\pri.resfiles
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bld\Debug\pri.resfiles.intermediate
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bld\Debug\qualifiers.txt
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bld\Debug\qualifiers.txt.intermediate
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bld\Debug\ProjectArchitectures.txt

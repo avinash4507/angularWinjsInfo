@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OPTIMUS-LAP-17</Machine>
+    <WindowsUser>avinash1.singh</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ebfea234-e42b-418c-bac6-72302c297bd0</PackageIdentityName>
+    <PackageIdentityPublisher>CN=avinash1.singh</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>F7B362EB8ECDA48D358AD845F467F0CA45EFF2366505C47DCC1628D472475A73</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ebfea234-e42b-418c-bac6-72302c297bd0_1.0.0.0_neutral__bv965b92py13t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ebfea234-e42b-418c-bac6-72302c297bd0_bv965b92py13t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ebfea234-e42b-418c-bac6-72302c297bd0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=avinash1.singh</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-20T06:20:09.736</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\css\mscom-grid.css">
+      <PackagePath>css\mscom-grid.css</PackagePath>
+      <Modified>2016-07-19T08:52:51.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\css\ui-dark.css">
+      <PackagePath>css\ui-dark.css</PackagePath>
+      <Modified>2016-07-19T08:52:51.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\css\ui-light.css">
+      <PackagePath>css\ui-light.css</PackagePath>
+      <Modified>2016-07-19T08:52:51.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\Angular\angular-csp.css">
+      <PackagePath>js\lib\Angular\angular-csp.css</PackagePath>
+      <Modified>2016-07-19T08:52:51.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-07-20T02:03:48.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2016-07-20T06:26:04.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\directives\colorbar.template.html">
+      <PackagePath>js\directives\colorbar.template.html</PackagePath>
+      <Modified>2016-07-19T08:52:51.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\views\colorDetails.html">
+      <PackagePath>views\colorDetails.html</PackagePath>
+      <Modified>2016-07-19T18:34:58.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\views\main.html">
+      <PackagePath>views\main.html</PackagePath>
+      <Modified>2016-07-20T02:55:01.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\fontawesome-webfont.eot">
+      <PackagePath>fonts\fontawesome-webfont.eot</PackagePath>
+      <Modified>2016-07-19T09:24:17.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\glyphicons-halflings-regular.eot">
+      <PackagePath>fonts\glyphicons-halflings-regular.eot</PackagePath>
+      <Modified>2016-07-19T10:01:37.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\fontawesome-webfont.svg">
+      <PackagePath>fonts\fontawesome-webfont.svg</PackagePath>
+      <Modified>2016-07-19T09:24:17.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\glyphicons-halflings-regular.svg">
+      <PackagePath>fonts\glyphicons-halflings-regular.svg</PackagePath>
+      <Modified>2016-07-19T10:01:37.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\fontawesome-webfont.ttf">
+      <PackagePath>fonts\fontawesome-webfont.ttf</PackagePath>
+      <Modified>2016-07-19T09:24:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\glyphicons-halflings-regular.ttf">
+      <PackagePath>fonts\glyphicons-halflings-regular.ttf</PackagePath>
+      <Modified>2016-07-19T10:01:37.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\Symbols.ttf">
+      <PackagePath>fonts\Symbols.ttf</PackagePath>
+      <Modified>2016-07-19T08:52:51.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\fontawesome-webfont.woff">
+      <PackagePath>fonts\fontawesome-webfont.woff</PackagePath>
+      <Modified>2016-07-19T09:24:16.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\glyphicons-halflings-regular.woff">
+      <PackagePath>fonts\glyphicons-halflings-regular.woff</PackagePath>
+      <Modified>2016-07-19T10:01:37.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\fontawesome-webfont.woff2">
+      <PackagePath>fonts\fontawesome-webfont.woff2</PackagePath>
+      <Modified>2016-07-19T09:24:16.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\glyphicons-halflings-regular.woff2">
+      <PackagePath>fonts\glyphicons-halflings-regular.woff2</PackagePath>
+      <Modified>2016-07-19T10:01:36.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\fonts\FontAwesome.otf">
+      <PackagePath>fonts\FontAwesome.otf</PackagePath>
+      <Modified>2016-07-19T09:24:16.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\Colorpicker.png">
+      <PackagePath>images\Colorpicker.png</PackagePath>
+      <Modified>2016-07-19T08:52:51.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\Colourlovers.png">
+      <PackagePath>images\Colourlovers.png</PackagePath>
+      <Modified>2016-07-19T08:52:51.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <Modified>2016-07-19T08:52:51.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\nuclear.png">
+      <PackagePath>images\nuclear.png</PackagePath>
+      <Modified>2016-07-19T08:52:51.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\palette.png">
+      <PackagePath>images\palette.png</PackagePath>
+      <Modified>2016-07-19T08:52:51.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <Modified>2016-07-19T08:52:51.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-19T08:52:51.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-19T08:52:51.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\config.js">
+      <PackagePath>js\config.js</PackagePath>
+      <Modified>2016-07-20T02:55:40.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\controllers\colorDetailsController.js">
+      <PackagePath>js\controllers\colorDetailsController.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\controllers\colorsMainController.js">
+      <PackagePath>js\controllers\colorsMainController.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\controllers\palettesMainController.js">
+      <PackagePath>js\controllers\palettesMainController.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\controllers\patternsMainController.js">
+      <PackagePath>js\controllers\patternsMainController.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\controllers\shellController.js">
+      <PackagePath>js\controllers\shellController.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\default.alternative.js">
+      <PackagePath>js\default.alternative.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.356</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.356</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\directives\backButton.directive.js">
+      <PackagePath>js\directives\backButton.directive.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.356</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\directives\colorbar.directive.js">
+      <PackagePath>js\directives\colorbar.directive.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\en-US\ui.strings.js">
+      <PackagePath>js\en-US\ui.strings.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\filters\fixcolor.filter.js">
+      <PackagePath>js\filters\fixcolor.filter.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\filters\ttDate.filter.js">
+      <PackagePath>js\filters\ttDate.filter.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\filters\ttFromNow.filter.js">
+      <PackagePath>js\filters\ttFromNow.filter.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\angular-winjs.js">
+      <PackagePath>js\lib\angular-winjs.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\Angular\angular-resource.js">
+      <PackagePath>js\lib\Angular\angular-resource.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\Angular\angular-route.js">
+      <PackagePath>js\lib\Angular\angular-route.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.444</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\Angular\angular.js">
+      <PackagePath>js\lib\Angular\angular.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\moment.js">
+      <PackagePath>js\lib\moment.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\winjs\WinJS.intellisense-setup.js">
+      <PackagePath>js\lib\winjs\WinJS.intellisense-setup.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\winjs\WinJS.intellisense.js">
+      <PackagePath>js\lib\winjs\WinJS.intellisense.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\winjs\WinJS.js">
+      <PackagePath>js\lib\winjs\WinJS.js</PackagePath>
+      <Modified>2016-07-19T08:52:51.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\winjs\WinJS.min.js">
+      <PackagePath>js\lib\winjs\WinJS.min.js</PackagePath>
+      <Modified>2016-07-19T08:52:52.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2016-07-20T06:03:50.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\routeConfig.js">
+      <PackagePath>js\routeConfig.js</PackagePath>
+      <Modified>2016-07-20T01:49:19.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\services\AdapterService.js">
+      <PackagePath>js\services\AdapterService.js</PackagePath>
+      <Modified>2016-07-19T08:52:52.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\services\angular.winjs.lifecycle.js">
+      <PackagePath>js\services\angular.winjs.lifecycle.js</PackagePath>
+      <Modified>2016-07-19T08:52:52.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\services\colourLoversAPI.service.js">
+      <PackagePath>js\services\colourLoversAPI.service.js</PackagePath>
+      <Modified>2016-07-19T08:52:52.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\services\NavigationService.js">
+      <PackagePath>js\services\NavigationService.js</PackagePath>
+      <Modified>2016-07-19T08:52:52.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\js\lib\winjs\WinJS.min.js.map">
+      <PackagePath>js\lib\winjs\WinJS.min.js.map</PackagePath>
+      <Modified>2016-07-19T08:52:52.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\avinash1.singh\documents\visual studio 2015\Projects\infonetDemoApp\infonetDemoApp\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-07-20T06:20:09.638</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
